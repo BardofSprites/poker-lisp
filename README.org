@@ -6,3 +6,10 @@ A simple crud app to track the state of a poker game. Doesn't follow rules very 
 * Dependences
 + sbcl
 + hunchentoot
+  
+* Screenshots
+** Version one
+[[file:poker.png]]
+
+** Version Two
+[[file:poker2.png]]
