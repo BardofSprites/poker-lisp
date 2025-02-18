@@ -1,0 +1,8 @@
+#+TITLE: poker-lisp
+
+* About
+A simple crud app to track the state of a poker game. Doesn't follow rules very well I cooked this up in 20 min.
+
+* Dependences
++ sbcl
++ hunchentoot
